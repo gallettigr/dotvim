@@ -1,0 +1,15 @@
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = gh:vim-syntastic/syntastic.git
+[submodule "bundle/emmet"]
+	path = bundle/emmet
+	url = gh:mattn/emmet-vim.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = gh:ctrlpvim/ctrlp.vim.git
+[submodule "bundle/nord"]
+	path = bundle/nord
+	url = gh:arcticicestudio/nord-vim.git
+[submodule "bundle/lightline"]
+	path = bundle/lightline
+	url = gh:itchyny/lightline.vim.git
